@@ -1,3 +1,5 @@
+Code: https://github.com/GLV-10IADT/FASE1_FINAL/blob/main/README.md
+
 # Predição de óbito por COVID-19
 
 Este repositório reúne o trabalho desenvolvido para prever a probabilidade de óbito em pacientes com COVID-19 a partir de variáveis clínicas estruturadas. O objetivo é construir um pipeline de Machine Learning capaz de comparar diferentes classificadores, avaliar o desempenho com métricas relevantes e salvar um modelo final para uso posterior.
